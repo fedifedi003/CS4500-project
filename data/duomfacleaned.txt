@@ -1,0 +1,70 @@
+================================================================================
+WILLIAM PATERSON UNIVERSITY DUO MFA GUIDE
+================================================================================
+
+INTRODUCTION TO MULTIFACTOR AUTHENTICATION (MFA)
+------------------------------------------------
+MFA adds a second layer of security to your account. After entering your password, verify your identity using:
+- Push notification (Duo Mobile app)
+- 6-digit code from the app
+- Phone call or text (faculty/staff only)
+
+Covered services: WPconnect, Office 365, Email, VPN, and other university systems.
+
+KEY FEATURES
+------------
+1. Authentication Methods:
+   | Method               | Faculty/Staff | Students |
+   |----------------------|---------------|----------|
+   | Duo Push (App)       | Yes           | Yes      |
+   | App-generated code   | Yes           | Yes      |
+   | Text message         | Yes           | No       |
+   | Phone call           | Yes           | No       |
+
+2. Device Memory:
+   - Faculty/Staff: Remember device for 12 hours.
+   - Students: Remember device for 24 hours.
+
+SETUP & ENROLLMENT
+-------------------
+1. Download Duo Mobile:
+   - iOS: https://itunes.apple.com/us/app/duo-mobile/id422663827?mt=8
+   - Android: https://play.google.com/store/apps/details?id=com.duosecurity.duomobile
+
+2. Register Devices:
+   - Faculty/Staff: Phone numbers preloaded from university systems.
+   - Students: Enter phone number during enrollment.
+   - Manage devices via the Duo Device Management Portal in WPconnect.
+
+TROUBLESHOOTING
+---------------
+- Lost/New Phone:
+  1. Use a backup device or request a one-time bypass code: https://wpconnect.wpunj.edu/mypwd/
+  2. Reactivate Duo via the Device Management Portal.
+
+- No Cellular/WiFi: Generate offline passcodes in the Duo Mobile app.
+
+- Push Notifications Not Working:
+  - Enable notifications for Duo in phone settings.
+  - iOS Guide: https://help.duo.com/s/article/2051
+  - Android Guide: https://help.duo.com/s/article/2050
+
+
+FAQs
+----
+Q: Why is MFA required?
+A: To combat phishing and unauthorized access. Passwords alone are no longer secure.
+
+Q: What if I travel internationally?
+A: Use the Duo app to generate offline passcodes.
+
+Q: What data does Duo collect?
+A: See Duo’s privacy policies:
+   - Services Privacy Notice: https://duo.com/legal/privacy-notice-services
+   - Mobile App Privacy: https://help.duo.com/s/article/4683
+
+SUPPORT
+-------
+- Helpdesk: 973-720-4357
+- Account Lockouts: Submit a ticket at https://www.wpunj.edu/helpdesk or call the Helpdesk.
+================================================================================

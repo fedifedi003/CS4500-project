@@ -1,0 +1,86 @@
+================================================================================
+WILLIAM PATERSON UNIVERSITY WIRELESS CONNECTION GUIDE
+================================================================================
+
+GENERAL WIRELESS CONNECTION
+---------------------------
+**Windows/Mac OS/iOS**:  
+1. Select "WP Wireless" from available networks.  
+2. Enter credentials when prompted.  
+3. Accept certificate warnings.  
+4. Connect.  
+
+**Chromebook/Android**:
+**Network Name:** WP Wireless or WP Wireless (5Ghz)  
+**Security:** 802.1x EAP  
+**Settings for All Devices**:
+- EAP Method: PEAP  
+- Phase 2 Authentication: MSCHAPV2  
+- Domain Suffix: ise.wpunj.edu  
+- Identity: Your WP Connect username  
+- Password: Your WP Connect password  
+- Anonymous Identity: Leave blank  
+
+
+**Troubleshooting**:  
+- Android: Disable "Randomized MAC" (use "Device MAC" or "Static MAC").  
+- Chromebooks: Forget all networks (Eduroam, WP-Wireless Guest) first.  
+- Contact Help Desk: https://help.wpunj.edu/helpdesk | 973-720-4357  
+
+
+SPONSORED GUEST ACCESS
+----------------------
+**For faculty/staff to sponsor guest access**:  
+1. Visit: http://www.wpunj.edu/sponsoredguest  
+2. Log in with WP credentials.  
+3. Click "Create Account" and fill in guest details (default: 24-hour access).  
+4. Share credentials with guest.  
+
+**Guest Instructions**:  
+1. Connect to "WP Wireless-Guest".  
+2. Open browser, visit WPUNJ.edu.  
+3. Log in with provided credentials.  
+
+**Note**:  
+- Do NOT use "WP Wireless-Guest" on personal phones/laptops.  
+- Gaming consoles/streaming devices MUST use "WP Wireless-Guest".  
+
+
+DEVICE REGISTRATION (GAMING CONSOLES, SMART DEVICES)
+----------------------------------------------------
+1. Register at: http://mydevices.wpunj.edu  
+2. Click "Add".  
+3. Enter:  
+   - Device Name (e.g., Xbox, Roku).  
+   - MAC Address (wired/wireless).  
+   - Description (optional).  
+4. Restart device and connect to "WP Wireless-Guest".  
+
+**Note**:  
+- MAC addresses are required for registration.  
+- Registration may show "Pending"; connect anyway.  
+
+
+FINDING MAC ADDRESSES
+---------------------
+**Amazon Echo**:  
+- Use Alexa app > Device Setup > Wi-Fi step (MAC appears before connecting).  
+
+**Amazon Fire/Apple TV/Roku/Chromecast**:  
+- Settings > About/Network > Locate MAC.  
+
+**Gaming Consoles**:  
+- **PlayStation**: Settings > System Information.  
+- **Xbox**: Network Settings > Advanced Settings.  
+- **Nintendo**: Internet/System Settings > MAC Address.  
+
+**Guides**:  
+- Video Tutorials: Linked in original document.  
+
+
+UNSUPPORTED DEVICES
+-------------------
+- **Wireless Printers**: Not supported (use USB).  
+- **Chromecast**: Limited functionality (enable Guest Mode).  
+
+================================================================================

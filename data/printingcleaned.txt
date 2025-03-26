@@ -1,0 +1,87 @@
+WPUNJ Printing Guide
+Printing Methods
+Lab Computers: Print to BW or Color print queue.
+
+Web Print: Upload documents via My Print Center.
+
+Payment & Release
+Pay and release prints at Uniprint stations or through My Print Center.
+
+Print jobs expire in 24 hours if not claimed.
+
+Printing Costs
+Black & White: $0.05 per page ($0.02 duplex).
+
+Color: $0.15 per page ($0.06 duplex).
+
+Prices subject to change.
+
+Student Printing Funds
+$15.00 quota per academic year.
+
+Additional charges via Pioneer Express.
+
+Printing from Labs
+Select \\pharosps\BW or \\pharosps\COLOR based on preference.
+
+Default setting: Duplex (double-sided).
+
+My Print Center Features
+Upload & release documents from any browser.
+
+Accepted formats: PDF, Word, Excel, PowerPoint, Images, Emails, etc.
+
+Modify color, sides, and copies before printing.
+
+Release Station Locations
+Print jobs can be released at the following locations:
+
+Atrium 120
+
+Ben Shahn 201
+
+Century Lobby
+
+Library Basement
+
+Library ERC
+
+Library Info Desk
+
+Library IRT
+
+Library Second Floor
+
+Hamilton Hall 144
+
+Preakness Hall Lobby
+
+Power Arts Lobby
+
+Science East 3054
+
+Skyline Lobby
+
+Student Center by the Bookstore
+
+Student Center 208
+
+University Hall Lobby
+
+Valley Road 1600 Room 1040
+
+Valley Road 1800 Student Lounge
+
+View Interactive Map.
+
+Print Job Release Options
+From Website: Select a printer and release the job.
+
+At a Release Station: Log in, select, and print.
+
+From Embedded Devices: Scan ID or log in, select job, and print.
+
+Support & Print Shop
+For help, visit the Help Desk.
+
+Print Shop Services: Large print jobs, posters, specialty paper requests. More Info.
